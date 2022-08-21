@@ -2,7 +2,13 @@ export const fundamentalsCollection = {
 	name: "Simple Structure",
 	areas: [
 		{
+<<<<<<< HEAD
 			name: "정수343124123fasdfas4",
+=======
+
+			name: "정12312123123123수",
+
+>>>>>>> 7cafe8fed0220a451ebca90dff74654387f8aa10
 			skills: [
 				{
 					name: "Syntax",
