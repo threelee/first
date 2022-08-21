@@ -2,7 +2,9 @@ export const fundamentalsCollection = {
 	name: "Simple Structure",
 	areas: [
 		{
+
 			name: "정12312123123123수",
+
 			skills: [
 				{
 					name: "Syntax",
