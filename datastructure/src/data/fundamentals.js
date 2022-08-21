@@ -2,46 +2,46 @@ export const fundamentalsCollection = {
 	name: "Simple Structure",
 	areas: [
 		{
-			name: "정수_이유섭",
+			name: "정수__이유섭",
 			skills: [
 				{
-					name: "Syntax",
+					name: "아아",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "가나다라마다ㅏ",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["가나다라마다ㅏ"],
+							["가나다라마다ㅏ"],
+							["가나다라마다ㅏ"],
 						]
 					},
 					skills: [
 						{
-							name: "Basic Tags",
+							name: "르르",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text: "가나다라마다ㅏ",
 								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
+									["가나다라마다ㅏ"],
+									["가나다라마다ㅏ"],
+									["가나다라마다ㅏ"],
+									["가나다라마다ㅏ"]
 								]
 							},
 						},
 					]
 				},
 				{
-					name: "Forms",
+					name: "크크",
 					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
+						text: "가나다라마다ㅏ",
 						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
+							["가나다라마다ㅏ"],
+							["가나다라마다ㅏ"],
+							["가나다라마다ㅏ"],
 						]
 					}
 				},
 				{
-					name: "SEO",
+					name: "미미",
 					description: {
 						text: "Learn how to make your content search-friendly.",
 						links: [
@@ -615,9 +615,9 @@ export const fundamentalsCollection = {
 			name: "문자_이유섭",
 			skills: [
 				{
-					name: "Standardization",
+					name: "문자에 대하여",
 					description: {
-						text: "Learn why web standards are important and how new specifications are standardised.",
+						text: "문자 정의, 강의 영상, 예제가 있습니다.",
 						links: [
 							["Wikipedia - Web Standards", "https://en.wikipedia.org/wiki/Web_standards"],
 							["What Are Web Standards?", "https://www.elcom.com.au/resources/blog/web-standards"],
@@ -628,7 +628,7 @@ export const fundamentalsCollection = {
 						{
 							name: "W3C",
 							description: {
-								text: "Learn what W3C are doing and how they are moving the web forward.",
+								text: "이런 것도 있음",
 								links: [
 									["W3C - About", "https://www.w3.org/standards/about.html"],
 									["W3C - Standards", "https://www.w3.org/standards/"],
