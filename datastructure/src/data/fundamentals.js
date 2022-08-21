@@ -612,7 +612,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "The Browser",
+			name: "문자",
 			skills: [
 				{
 					name: "Standardization",
