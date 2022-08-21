@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "Simple Structure",
 	areas: [
 		{
 			name: "HTML",
@@ -89,7 +89,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "CSS",
+			name: "Real Numbers",
 			skills: [
 				{
 					name: "Syntax",
