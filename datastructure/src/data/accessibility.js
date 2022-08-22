@@ -92,7 +92,7 @@
 				]
 			},
 			{
-				name: "Real Numbers_이유섭",
+				name: "연결리스트/단순연결리스트",
 				skills: [
 					{
 						name: "Syntax_이유섭",
