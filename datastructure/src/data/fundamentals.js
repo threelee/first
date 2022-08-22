@@ -343,7 +343,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "Javascript",
+			name: "선형 구조",
 			skills: [
 				{
 					name: "Syntax",
@@ -422,7 +422,7 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "Objects",
+					name: "스택",
 					description: {
 						text: "Learn how to create and use objects.",
 						links: [
