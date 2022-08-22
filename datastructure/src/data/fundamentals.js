@@ -3,7 +3,7 @@ export const fundamentalsCollection = {
 	areas: [
 		{
 
-			name: "정수",
+			name: "정수_이유섭",
 
 			skills: [
 				{
@@ -91,10 +91,10 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "Real Numbers",
+			name: "Real Numbers_이유섭",
 			skills: [
 				{
-					name: "Syntax",
+					name: "Syntax_이유섭",
 					description: {
 						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
 						links: [
@@ -109,7 +109,7 @@ export const fundamentalsCollection = {
 					}
 				},
 				{
-					name: "Selectors",
+					name: "Selectors_이유섭",
 					description: {
 						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
 						links: [
@@ -614,7 +614,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "문자",
+			name: "문자_이유섭",
 			skills: [
 				{
 					name: "Standardization",
