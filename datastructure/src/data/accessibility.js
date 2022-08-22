@@ -1,18 +1,18 @@
 
 	export const accessibilityCollection = {
-		name: "Simple Structure",
+		name: "선형구조",
 		areas: [
 			{
 	
-				name: "정수_이유섭",
+				name: "순차리스트",
 	
 				skills: [
 					{
-						name: "아아",
+						name: "순차리스트1",
 						description: {
-							text: "가나다라마다ㅏ",
+							text: "순차리스트2",
 							links: [
-								["가나다라마다ㅏ"],
+								["순차리스트3"],
 								["가나다라마다ㅏ"],
 								["가나다라마다ㅏ"],
 							]

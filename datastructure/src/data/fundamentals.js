@@ -2,9 +2,13 @@ export const fundamentalsCollection = {
 	name: "Simple Structure",
 	areas: [
 		{
+<<<<<<< HEAD
+			name: "정수",
+=======
 
-			name: "정수_이유섭",
+			name: "정수",
 
+>>>>>>> fe1804d929e74b541e4c50c7d3d3830b31a7395f
 			skills: [
 				{
 					name: "아아",
@@ -617,9 +621,9 @@ export const fundamentalsCollection = {
 			name: "문자_이유섭",
 			skills: [
 				{
-					name: "Standardization",
+					name: "문자에 대하여",
 					description: {
-						text: "Learn why web standards are important and how new specifications are standardised.",
+						text: "문자 정의, 강의 영상, 예제가 있습니다.",
 						links: [
 							["Wikipedia - Web Standards", "https://en.wikipedia.org/wiki/Web_standards"],
 							["What Are Web Standards?", "https://www.elcom.com.au/resources/blog/web-standards"],
@@ -630,7 +634,7 @@ export const fundamentalsCollection = {
 						{
 							name: "W3C",
 							description: {
-								text: "Learn what W3C are doing and how they are moving the web forward.",
+								text: "이런 것도 있음",
 								links: [
 									["W3C - About", "https://www.w3.org/standards/about.html"],
 									["W3C - Standards", "https://www.w3.org/standards/"],
